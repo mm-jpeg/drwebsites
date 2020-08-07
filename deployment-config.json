@@ -1,0 +1,9 @@
+{
+    "type": "ftp",
+    "host": "drwebsites.co.za",
+    "username": "mahlatse",
+    "password": "aewaew",
+    "port": 21,
+    "remotePath": "/var/www/drwebsites/public_html",
+    "uploadOnSave": false
+}
