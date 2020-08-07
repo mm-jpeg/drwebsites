@@ -1,1 +1,1 @@
-A digital Agency specifically for the  medical healthcare industry with a goal to make the medical sectorr digital first.
+A digital Agency specifically for the  medical healthcare industry with a goal to make the medical sector digital first.
